@@ -33,7 +33,7 @@ public class OCMCommandHandler implements CommandExecutor {
             Messenger.send(sender, ChatColor.DARK_GRAY + Messenger.HORIZONTAL_BAR);
 
             Messenger.send(sender, "&6&lOldCombatMechanics&e by &ckernitus&e and &cRayzr522&e version &6%s", pdf.getVersion());
-            Messenger.send(sender, "&eYou can use &c/ocm reload&e to reload the config file");
+            Messenger.send(sender, "&eCustom edition for Subete, &rhttps://github.com/SubeteMC");
 
             if(plugin.getConfig().getBoolean("enableIndividualToggle") && sender.hasPermission("oldcombatmechanics.toggle") && sender instanceof Player){
                 Messenger.send(sender, "&eYou can use &c/ocm toggle&e to turn your attack cooldown on/off");
