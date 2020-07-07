@@ -6,7 +6,7 @@
 <hr/>
 
 # Old Combat Mechanics
-#### by kernitus and Rayzr522
+#### by kernitus and Rayzr522 - edited by Hubz for SubeteMC
 A Bukkit/Spigot plugin to revert combat mechanics to pre-1.9. Also supports reverting other features.
 
 If you are interested in contributing, please [check this page first](.github/CONTRIBUTING.md).
